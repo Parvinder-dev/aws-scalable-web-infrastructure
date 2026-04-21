@@ -65,7 +65,7 @@ ALB Setup $ ALB Traffic
 ![Auto Scaling Group](Screenshots/autoscaling-1-group.png)
 
 ### 🔹 CloudWatch Monitoring & Alarms
-![CloudWatch Dashboard](Screenshots/cloudwatch-2-dashboard.png)
+![CloudWatch Dashboard](Screenshots/cloudwatch-1-dashboard.png)
 ![CloudWatch Alarm](Screenshots/cloudwatch-2-alarm.png)
 
 ## 👨‍💻 Author

@@ -54,7 +54,7 @@ User → Application Load Balancer → Auto Scaling EC2 (Private Subnets) → NA
 ---
 
 ## 📸 Screenshots
-
+ALB Setup $ ALB Traffic
 ![ALB Setup](Screenshots/alb-1-setup.png)
 ![ALB Traffic](Screenshots/alb-2-traffic.png)
 

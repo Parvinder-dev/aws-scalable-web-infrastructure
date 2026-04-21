@@ -58,6 +58,9 @@ ALB Setup $ ALB Traffic
 ![ALB Setup](Screenshots/alb-1-setup.png)
 ![ALB Traffic](Screenshots/alb-2-traffic.png)
 
+### 🔹 Health Check Status
+![Health Check](Screenshots/health-check.png)
+
 ### 🔹 EC2 Instances
 ![EC2 Instance](Screenshots/ec2-1-instance.png)
 

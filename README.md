@@ -54,23 +54,30 @@ User → Application Load Balancer → Auto Scaling EC2 (Private Subnets) → NA
 ---
 
 ## 📸 Screenshots
-ALB Setup $ ALB Traffic
-![ALB Setup](Screenshots/alb-1-setup.png)
-![ALB Traffic](Screenshots/alb-2-traffic.png)
 
-### 🔹 Health Check Status
+### 🔹 1. VPC & Subnet Setup
+![VPC](Screenshots/vpc.png)
+
+### 🔹 2. Application Load Balancer Setup
+![ALB Setup](Screenshots/alb-1-setup.png)
+
+### 🔹 3. Target Group & Health Check
 ![Health Check](Screenshots/health-check.png)
 
-### 🔹 EC2 Instances
+### 🔹 4. EC2 Instances (Private Subnet)
 ![EC2 Instance](Screenshots/ec2-1-instance.png)
 
-### 🔹 Auto Scaling
-![Auto Scaling Group](Screenshots/autoscaling-1-group.png)
+### 🔹 5. Auto Scaling Group
+![Auto Scaling](Screenshots/autoscaling-1-group.png)
 
-### 🔹 CloudWatch Monitoring & Alarms
-![CloudWatch Dashboard](Screenshots/cloudwatch-1-dashboard.png)
+### 🔹 6. Traffic Distribution via ALB
+![ALB Traffic](Screenshots/alb-2-traffic.png)
+
+### 🔹 7. CloudWatch Alarm
 ![CloudWatch Alarm](Screenshots/cloudwatch-2-alarm.png)
 
+### 🔹 8. CloudWatch Dashboard
+![CloudWatch Dashboard](Screenshots/cloudwatch-1-dashboard.png)
 ## 👨‍💻 Author
 
 **Parvinder Panwar**

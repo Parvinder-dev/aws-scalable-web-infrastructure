@@ -55,25 +55,18 @@ User → Application Load Balancer → Auto Scaling EC2 (Private Subnets) → NA
 
 ## 📸 Screenshots
 
-### 🔹 Application Load Balancer
-
 ![ALB Setup](Screenshots/alb-1-setup.png)
 ![ALB Traffic](Screenshots/alb-2-traffic.png)
 
 ### 🔹 EC2 Instances
-
 ![EC2 Instance](Screenshots/ec2-1-instance.png)
 
 ### 🔹 Auto Scaling
-
 ![Auto Scaling Group](Screenshots/autoscaling-1-group.png)
 
 ### 🔹 CloudWatch Monitoring & Alarms
-
 ![CloudWatch Dashboard](Screenshots/cloudwatch-1-dashboard.png)
 ![CloudWatch Alarm](Screenshots/cloudwatch-2-alarm.png)
-
----
 
 ## 👨‍💻 Author
 
